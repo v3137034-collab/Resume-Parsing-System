@@ -1,0 +1,30 @@
+Rahul Sharma
+rahul.sharma@example.com | +91 98765 43210
+github.com/rahulsharma | linkedin.com/in/rahulsharma
+
+Summary
+Software developer with 1 years of experience building web apps and data tools. Passionate about clean code, problem solving and continuous learning across backend and data projects.
+
+Skills
+Python, Django, SQL, Git, Docker, Machine Learning, C++, Pandas
+
+Experience
+Software Intern, TechNova Pvt Ltd (Jan 2024 - Jul 2024)
+- Built REST API endpoints in Django that served 5000+ daily requests
+- Optimised SQL queries and reduced page load time by 30%
+- Wrote unit tests that raised code coverage to 85%
+
+Projects
+Resume Parser
+- Extracted candidate details from PDF resumes using Python and regex
+Student Management System
+- Built a CRUD web app with Flask and MySQL used by 120 students
+Spam Classifier
+- Trained a Naive Bayes model with scikit-learn reaching 96% accuracy
+
+Education
+B.Tech in Computer Engineering, 2024
+
+Certifications
+- Python for Data Science - NPTEL
+- AWS Cloud Practitioner Essentials

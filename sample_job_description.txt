@@ -1,0 +1,3 @@
+Python Developer Intern
+We are looking for a candidate with knowledge of Python, Django, SQL, Git, Docker
+and REST API development. Familiarity with AWS, Linux and machine learning is a plus.
